@@ -5,7 +5,7 @@ $bootstrap-sass-asset-helper: false !default;
 
 
 // Customizations to the colors
-$main-color: #1a8c97;
+$main-color: #bb9696;
 
 
 
@@ -725,7 +725,7 @@ $panel-footer-bg:             #f5f5f5 !default;
 
 $panel-default-text:          $gray-dark !default;
 $panel-default-border:        #ddd !default;
-$panel-default-heading-bg:    #f5f5f5 !default;
+$panel-default-heading-bg:    $main-color !default;
 
 $panel-primary-text:          #fff !default;
 $panel-primary-border:        $brand-primary !default;
